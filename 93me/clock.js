@@ -14,6 +14,6 @@ hrsold=Math.floor(e_hrsold);
 e_minsold=(e_hrsold-hrsold)*60; 
 minsold=Math.floor((e_hrsold-hrsold)*60); 
 seconds=Math.floor((e_minsold-minsold)*60); 
-	htright.innerHTML='<font  color=#00ffff>The first time I saw You'+'<br/>'+'I had no idea you would be so important to me';
+	htright.innerHTML='<font  color=#00ffff>I am still waitting for some girl'+'<br/>'+'walking into my heart';
 	} 
 show_student_time(); 
